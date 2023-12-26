@@ -90,3 +90,5 @@ Profiles for choice of "non free" compatibility modules to build:
 | `-P cblegacy` | The pre-DMCA CraftBukkit builds. |
 
 (On the long run, only the latest module for a major Minecraft release may be be kept, such as 1_8_r3 for all of 1.8.x.)
+
+
